@@ -49,3 +49,11 @@ else {
 }
 
 */
+age = 18;
+age >= 18 ? console.log("vote daw") : console.log("ghumia thako")
+
+let price = 50;
+let isLeder = true;
+
+price = isLeder === false ? 0 : price + 100;
+console.log(price);
