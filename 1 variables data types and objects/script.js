@@ -5,6 +5,7 @@ var a = 5;
 let b = 6;
 let c = "Harry";
 let _a = "Shubham";
+// let _a = "Shubham";
 // var 55a = "Rohan"; // Not Allowed
 
 // console.log(a +  b + 8);
@@ -40,3 +41,15 @@ o.salary = "100crores";
 console.log(o);
 o.salary = "500crores";
 console.log(o);
+
+var first = .1;
+var second = .2;
+var total = first + second;
+console.log(total.toFixed(8));
+
+var applePrice = parseInt('22.5');
+total = first + applePrice;
+console.log(total.toFixed(3));
+
+console.log(10 == '10')// checking only value
+console.log(10 === '10')//checking value with datatype
