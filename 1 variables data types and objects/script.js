@@ -15,7 +15,7 @@ let _a = "Shubham";
     console.log(a)
 }
 console.log(a)
-// const a1 = 6;
+// const a1 = 6; //no change
 // a1 = a1 + 1; // Not Allowed because a1 is constant
 
 
